@@ -1,0 +1,12 @@
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\bin\Debug\net6.0\SchmersalGlobalTask.Domain.deps.json
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\bin\Debug\net6.0\SchmersalGlobalTask.Domain.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\bin\Debug\net6.0\SchmersalGlobalTask.Domain.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.csproj.AssemblyReference.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.AssemblyInfoInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.AssemblyInfo.cs
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.csproj.CoreCompileInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\refint\SchmersalGlobalTask.Domain.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\SchmersalGlobalTask.Domain.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Domain\obj\Debug\net6.0\ref\SchmersalGlobalTask.Domain.dll

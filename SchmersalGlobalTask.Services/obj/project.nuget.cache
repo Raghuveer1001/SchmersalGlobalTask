@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lz9e6dgn+7zXS8T1HRef2RdetxIkjpiMVDd1cUOqmyueKiKlVI8jRP2Rs+/NvZuY3uT1yuPtMsB2G9nWBnd/Ow==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Websites Demos\\SchmersalGlobalTask\\SchmersalGlobalTask.Services\\SchmersalGlobalTask.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samrat\\.nuget\\packages\\mapster\\7.4.0-pre06\\mapster.7.4.0-pre06.nupkg.sha512",
+    "C:\\Users\\Samrat\\.nuget\\packages\\mapster.core\\1.2.1-pre04\\mapster.core.1.2.1-pre04.nupkg.sha512"
+  ],
+  "logs": []
+}

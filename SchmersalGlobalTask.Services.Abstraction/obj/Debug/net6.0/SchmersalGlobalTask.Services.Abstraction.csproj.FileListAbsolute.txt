@@ -1,0 +1,15 @@
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\bin\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.deps.json
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\bin\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\bin\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\bin\Debug\net6.0\SchmersalGlobalTask.Contracts.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\bin\Debug\net6.0\SchmersalGlobalTask.Contracts.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.csproj.AssemblyReference.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.AssemblyInfoInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.AssemblyInfo.cs
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.csproj.CoreCompileInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.csproj.CopyComplete
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\refint\SchmersalGlobalTask.Services.Abstraction.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\SchmersalGlobalTask.Services.Abstraction.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Services.Abstraction\obj\Debug\net6.0\ref\SchmersalGlobalTask.Services.Abstraction.dll

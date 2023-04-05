@@ -1,0 +1,17 @@
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.csproj.AssemblyReference.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.AssemblyInfoInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.AssemblyInfo.cs
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Infrastructure.deps.json
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Infrastructure.runtimeconfig.json
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Infrastructure.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Infrastructure.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Domain.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\bin\Debug\net6.0\SchmersalGlobalTask.Domain.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.csproj.CopyComplete
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\refint\SchmersalGlobalTask.Infrastructure.dll
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.pdb
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\SchmersalGlobalTask.Infrastructure.genruntimeconfig.cache
+E:\Development\Websites Demos\SchmersalGlobalTask\SchmersalGlobalTask.Infrastructure\obj\Debug\net6.0\ref\SchmersalGlobalTask.Infrastructure.dll

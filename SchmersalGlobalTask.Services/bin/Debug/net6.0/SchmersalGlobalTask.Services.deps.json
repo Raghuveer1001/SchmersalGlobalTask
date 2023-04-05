@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SchmersalGlobalTask.Services/1.0.0": {
+        "dependencies": {
+          "Mapster": "7.4.0-pre06",
+          "SchmersalGlobalTask.Domain": "1.0.0",
+          "SchmersalGlobalTask.Services.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "SchmersalGlobalTask.Services.dll": {}
+        }
+      },
+      "Mapster/7.4.0-pre06": {
+        "dependencies": {
+          "Mapster.Core": "1.2.1-pre04"
+        },
+        "runtime": {
+          "lib/net6.0/Mapster.dll": {
+            "assemblyVersion": "7.4.0.0",
+            "fileVersion": "7.4.0.0"
+          }
+        }
+      },
+      "Mapster.Core/1.2.1-pre04": {
+        "runtime": {
+          "lib/net6.0/Mapster.Core.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "SchmersalGlobalTask.Contracts/1.0.0": {
+        "runtime": {
+          "SchmersalGlobalTask.Contracts.dll": {}
+        }
+      },
+      "SchmersalGlobalTask.Domain/1.0.0": {
+        "runtime": {
+          "SchmersalGlobalTask.Domain.dll": {}
+        }
+      },
+      "SchmersalGlobalTask.Services.Abstraction/1.0.0": {
+        "dependencies": {
+          "SchmersalGlobalTask.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "SchmersalGlobalTask.Services.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchmersalGlobalTask.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapster/7.4.0-pre06": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+hpfk4vOonrr4VAZ3x6i93puZHy3SBKm39ffCq7d8qjNTir5a9cPyvIFiqqyLlnIFXZOblMWbJEegO4RE8DJyw==",
+      "path": "mapster/7.4.0-pre06",
+      "hashPath": "mapster.7.4.0-pre06.nupkg.sha512"
+    },
+    "Mapster.Core/1.2.1-pre04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-en93KNBjIGorx2I9mEhTqBUOGb2ybMLdaZMXpwpnQVaWnERy38EoLtK9FDd8WT16IDaC0A4otmGuNI1Szlm6CQ==",
+      "path": "mapster.core/1.2.1-pre04",
+      "hashPath": "mapster.core.1.2.1-pre04.nupkg.sha512"
+    },
+    "SchmersalGlobalTask.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchmersalGlobalTask.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchmersalGlobalTask.Services.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
